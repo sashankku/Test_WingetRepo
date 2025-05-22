@@ -6,17 +6,17 @@
         {
           "Version": "7.6.0",
           "ManifestType": "version",
-          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip"
+          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip.yaml"
         },
 		{
           "Version": "7.6.0",
           "ManifestType": "defaultLocale",
-          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip.locale.en-US"
+          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip.locale.en-US.yaml"
         },
 		{
           "Version": "7.6.0",
           "ManifestType": "installer",
-          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip.installer"
+          "ManifestLocation": "https://sashankku.github.io/Test_WingetRepo/manifests/W/WinZip/7.6.0/WinZip.WinZip.installer.yaml"
         }
       ]
     }
